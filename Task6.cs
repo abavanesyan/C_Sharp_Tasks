@@ -1,4 +1,4 @@
-﻿/*Console.WriteLine("Give the value of row");
+Console.WriteLine("Give the value of row");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Give the value of column");
 int m = Convert.ToInt32(Console.ReadLine());
@@ -35,4 +35,4 @@ void adding(int i, int j)
     {
         adding(i, j);
     }
-}*/
+}
