@@ -1,4 +1,4 @@
-﻿/*int[,] matrix = { { 7, 10, 15, 54 }, { 8, 9, 9, 9 }, { 18, 11, 18, 32 } };
+﻿int[,] matrix = { { 7, 10, 15, 54 }, { 8, 9, 9, 9 }, { 18, 11, 18, 32 } };
 int max;
 int loc = 0;
 int bl = 1;
@@ -49,4 +49,4 @@ void finder(int max, int loc)
         Console.WriteLine($"That number is {max} and the location is {loc2} {loc}");
         bl = 0;
     }
-}*/
+}
